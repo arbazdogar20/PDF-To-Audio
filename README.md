@@ -1,4 +1,4 @@
-# PDF-To-Speech
+# PDF-To-Audio
 This Script Is write on The python. In This script you can listen any PDF file very easily and clearly.
 
 # How To Use:
